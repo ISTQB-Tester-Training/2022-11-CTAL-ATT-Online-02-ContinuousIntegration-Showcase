@@ -137,7 +137,7 @@
 
     <repository>
         <id>ctp-nexus-release</id>
-        <url>http://http://80.158.7.52:30003/repository/maven-CI-Showcase-Repository-Release</url>
+        <url>http://80.158.7.52:30003/repository/maven-CI-Showcase-Repository-Release</url>
     </repository>
 
     </distributionManagement>
